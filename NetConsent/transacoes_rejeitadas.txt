@@ -1,0 +1,7 @@
+Transações Rejeitadas
+==================================================
+{'transaction_id': 'TX240', 'sender': 'User4', 'receiver': 'User1', 'amount': 60, 'status': 'insufficient_funds'}
+{'transaction_id': 'TX253', 'sender': 'User4', 'receiver': 'User2', 'amount': 56, 'status': 'insufficient_funds'}
+{'transaction_id': 'TX256', 'sender': 'User4', 'receiver': 'User5', 'amount': 82, 'status': 'insufficient_funds'}
+{'transaction_id': 'TX287', 'sender': 'User4', 'receiver': 'User5', 'amount': 50, 'status': 'insufficient_funds'}
+{'transaction_id': 'TX291', 'sender': 'User4', 'receiver': 'User1', 'amount': 69, 'status': 'insufficient_funds'}
